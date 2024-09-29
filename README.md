@@ -109,9 +109,9 @@ A collection pode ser usada para executar as requisições diretamente e verific
 4. **Executando o Servidor Dash**:
    - O código para o servidor Dash está na pasta `dash_server/`.
    - Instale as dependências necessárias utilizando o comando:
-     ```bash
-     pip install -r requirements.txt
-     ```
+   ```bash
+   pip install dash plotly pandas requests
+   ```
    - Execute o servidor utilizando:
      ```bash
      python app.py
@@ -139,14 +139,7 @@ A collection pode ser usada para executar as requisições diretamente e verific
   - Postman para execução das requisições.
   - Python 3.x para o servidor Dash.
   - **WokWi**: Para simulação do ESP32.
-
-## Dependências
-
-No servidor Dash, certifique-se de instalar as seguintes bibliotecas Python:
-
-```bash
-pip install dash plotly pandas requests
-```
+  - 
 
 ## Futuras Melhorias
 - Adicionar notificações ao usuário quando certos limites de temperatura, umidade ou luminosidade forem atingidos.
