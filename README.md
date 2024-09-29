@@ -17,8 +17,7 @@ Além disso, um servidor Dash está configurado para exibir as informações de 
 
 ### Simulação no WokWi
 
-![image](https://github.com/user-attachments/assets/808658b1-ac1d-46b1-bd43-2bfe1e71063d)
-
+![image](https://github.com/user-attachments/assets/b600dd3f-8123-451f-91bf-447dc95c23a7)
 
 Para testar a integração com o servidor Dash e monitorar os dados, um link de simulação do **ESP32** foi disponibilizado através do **WokWi**. Com essa simulação, é possível visualizar o funcionamento do sistema sem a necessidade de hardware físico.
 
