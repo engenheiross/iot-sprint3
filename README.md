@@ -35,6 +35,15 @@ Para testar a integração com o servidor Dash e monitorar os dados, um link de 
 - **Postman**: Utilizado para testar e verificar as requisições dos serviços, além de realizar o Health Check do sistema.
 - **WokWi**: Simulador online para testar o ESP32 e visualizar a coleta de dados sem hardware físico.
 
+## Instalação do FIWARE
+
+Caso esteja interessado em aprender como instalar o FIWARE manualmente, você pode seguir o passo a passo detalhado no repositório abaixo:
+
+> [Guia de Instalação do FIWARE](https://github.com/fabiocabrini/fiware)
+
+Este guia fornece instruções completas para configurar o FIWARE com Docker, incluindo o Orion Broker, o STH-Comet, e outros componentes essenciais para o desenvolvimento de aplicações IoT.
+
+
 ## Postman Collection
 
 Uma **Postman Collection** foi criada e está disponível neste repositório para facilitar o Health Check dos serviços e familiarizar os usuários com as requisições do sistema. O **IP do servidor** já está incluído dentro da collection, o que facilita a configuração das requisições. Além disso, esse IP também pode ser utilizado para acessar a dashboard online, que está disponível na **porta 8050**.
