@@ -50,18 +50,6 @@ Uma **Postman Collection** foi criada e está disponível neste repositório par
 
 IP do servidor: **191.232.39.114**
 
-Essa collection inclui os seguintes endpoints:
-
-1. **Health Check**: Verifica se o serviço MQTT está rodando corretamente.
-2. **Provisioning a Service Group for MQTT**: Provisão de um grupo de serviços MQTT.
-   - **2.1 Health Check Services**: Verifica os serviços `fiware-service` e `fiware-servicepath`.
-   - **2.2 Delete a Service Group**: Remove um grupo de serviços existente.
-3. **Provisioning a Smart Lamp**: Provisiona uma Smart Lamp como dispositivo IoT.
-4. **Registering Smart Lamp Commands**: Registra a Smart Lamp nas entities do Orion Broker.
-5. **List all Devices Provisioned**: Lista todos os dispositivos provisionados no sistema.
-6. **Switching on the Smart Lamp**: Liga a Smart Lamp.
-7. **Result of Smart Lamp Luminosity**: Faz uma requisição GET para verificar a medida de luminosidade armazenada no servidor.
-
 A collection pode ser usada para executar as requisições diretamente e verificar se o sistema está funcionando conforme o esperado. Ela também é uma ótima ferramenta para novos desenvolvedores se familiarizarem com a API e os fluxos de comunicação.
 
 ## Funcionalidades
