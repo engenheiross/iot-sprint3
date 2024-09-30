@@ -1,3 +1,10 @@
+## Membros do Grupo
+
+- Glauco Heitor Gonçalves e Silva - RM 555978
+- Victor Hugo de Paula - RM 554787
+- Otavio Santos de Lima Ferrao - RM 556452
+- Gabriel Guilherme Leste - RM 558638
+
 # IoT Monitoring System with MQTT, STH-Comet, Orion Broker, and FIWARE with Docker
 
 Este projeto envolve um dispositivo IoT que coleta dados de ambiente e os envia para um servidor MQTT. O sistema integra **FIWARE**, utilizando Docker para executar o **Orion Broker** e o **STH-Comet**, que gerenciam e armazenam os dados enviados. Além disso, um painel Dash é utilizado para visualização dos dados em tempo real.
