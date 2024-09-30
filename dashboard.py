@@ -8,7 +8,7 @@ import json
 
 amount = 30
 # Change IP To Current Host / Certifique-se de alterar o  IP
-URL = "http://191.232.39.114:8666/STH/v1/contextEntities/type/Lamp/id/urn:ngsi-ld:Lamp:011/attributes/"
+URL = "http://191.232.39.114:8666/STH/v1/contextEntities/type/Lamp/id/urn:ngsi-ld:Lamp:001/attributes/"
 PARAMS = {'lastN': amount}
 
 # Headers as a dictionary
