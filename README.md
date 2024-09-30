@@ -89,7 +89,7 @@ A collection pode ser usada para executar as requisições diretamente e verific
 1. **Configuração do FIWARE com Docker**:
    - Na pasta `fiware/`, execute o Docker Compose para iniciar os containers do FIWARE (Orion Broker e STH-Comet):
      ```bash
-     docker-compose up -d
+     docker compose up -d
      ```
    - Certifique-se de que o Orion Broker e o STH-Comet estão funcionando corretamente. Você pode verificar o status dos containers com:
      ```bash
